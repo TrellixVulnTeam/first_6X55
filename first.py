@@ -4,7 +4,7 @@ import sys
 from app import create_app, db
 from app.models import User, Role, Permissions
 from flask_migrate import Migrate
-from flask_migrate import upgrade()
+from flask_migrate import upgrade
 
 
 
