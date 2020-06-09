@@ -20,7 +20,7 @@ Flask-PageDown==0.3.0
 Flask-SQLAlchemy==2.4.3
 Flask-SSLify==0.1.5
 Flask-WTF==0.14.3
-httpie==2.1.0
+httpie==1.0.3
 idna==2.9
 itsdangerous==1.1.0
 Jinja2==2.11.2
